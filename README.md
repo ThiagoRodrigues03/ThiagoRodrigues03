@@ -11,7 +11,7 @@
 <h2 align="center"> Comits e Linguagens </h2>
 
 <div align="center">
-  <a href="https://github.com/Daniel-H-1">
+  <a href="https://github.com/ThiagoRodrigues03">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Daniel-H-1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-H-1&layout=compact&langs_count=7&theme=dark"/>
 </div>
@@ -24,15 +24,15 @@
 </div>
 <div align="center">
 
-  ![snake animation](https://github.com/Daniel-H-1/Daniel-H-1/blob/output/github-contribution-grid-snake-dark.svg)
+  ![snake animation](https://github.com/ThiagoRodrigues03/ThiagoRodrigues03/blob/output/github-contribution-grid-snake-dark.svg)
   
 </div>
 <h2></h2>
 
 <h2 align="center">Contato</h2>
 <div align="center">
- <a target=_blank href="https://www.linkedin.com/in/daniel-h-s-l-junior">
+ <a target=_blank href="">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
- <a target="_blank" href="mailto:daniellheberjunior@gmail.com">
+ <a target="_blank" href="">
    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
